@@ -1,3 +1,6 @@
 [submodule "SUIT"]
 	path = SUIT
 	url = https://github.com/vrld/SUIT
+[submodule "moonshine"]
+	path = moonshine
+	url = https://github.com/vrld/moonshine/
